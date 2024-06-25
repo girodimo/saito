@@ -18,4 +18,4 @@ _build:
 
 {{< myform >}}
 
-###### &copy; {{< year >}} <u>[Spedon](https://github.com/Sped0n)</u> | Built with <u>[Hugo](https://gohugo.io/)</u>
+###### &copy; {{< year >}} Matthew Girod
