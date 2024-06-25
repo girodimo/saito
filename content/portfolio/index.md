@@ -4,7 +4,7 @@ layout: single
 url: /
 menu:
   main:
-    weight: 2
+    weight: 1
     identifier: portfolio
     title: ポートフォリオ
 unifiedAlt: '© 2024 Matthew Girod'
