@@ -4,7 +4,7 @@ layout: single
 url: /contact/
 menu:
   main:
-    weight: 3
+    weight: 2
     identifier: contact
     title: 問い合わせ
 unifiedAlt: ''
