@@ -1,0 +1,56 @@
+$tablet: map-get($breakpoints, 'tablet') - 1;
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  height: var(--nav-height);
+  padding: 0 var(--space-standard);
+
+  position: fixed;
+  bottom: 0;
+  background: var(--main-color);
+
+  z-index: var(--z-nav);
+
+  // Maintain functionality while container is locked
+  pointer-events: all;
+}
+
+.navArtist{
+  font-weight: bold;
+  font-size: 2em;
+  padding:1em 0;
+
+}
+
+.links a{
+  padding:0 0 0 .7em;
+
+}
+
+
+
+.num {
+  width: 0.625em;
+  display: inline-block;
+  text-align: center;
+}
+
+.current {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+@media (max-width: $tablet), (hover: none) {
+  nav {
+    top: 0;
+  }
+
+  .index,
+  .threshold {
+    display: none;
+  }
+}

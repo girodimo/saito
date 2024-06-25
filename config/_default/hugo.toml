@@ -1,0 +1,17 @@
+# timeout
+timeout = "1200s"
+# your website url
+baseURL = '/portfolio'
+# website title
+title = 'ジロド マシュー'
+# theme
+theme = 'bridget'
+
+# don't touch this
+disableKinds = ["section", "taxonomy", "term", "home"]
+# robots.txt
+enableRobotsTXT = false
+# * en (powered by Geist)
+# * ja (powered by Noto Sans JP)
+defaultContentLanguage = 'ja'
+
