@@ -1,7 +1,5 @@
 [submodule "themes/bridget"]
   path = themes/bridget
-<<<<<<< HEAD
   url = "https://github.com/Sped0n/bridget"
-=======
-  url = "https://github.com/Sped0n/bridget"
->>>>>>> 51e9cbf28a0d7c3c78069441aba22c9d03ea3028
+
+
