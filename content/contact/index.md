@@ -4,7 +4,7 @@ layout: single
 url: /contact/
 menu:
   main:
-    weight: 3
+    weight: 2
     identifier: contact
     title: 問い合わせ
 unifiedAlt: ''
@@ -18,4 +18,4 @@ _build:
 
 {{< myform >}}
 
-###### &copy; {{< year >}} <u>[Spedon](https://github.com/Sped0n)</u> | Built with <u>[Hugo](https://gohugo.io/)</u>
+###### &copy; {{< year >}} Matthew Girod
