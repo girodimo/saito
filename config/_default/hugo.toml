@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = '/portfolio'
+baseURL = 'https://matthewgirod.netlify.app'
 # website title
 title = 'ジロド マシュー'
 # theme
